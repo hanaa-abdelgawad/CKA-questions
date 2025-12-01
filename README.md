@@ -27,5 +27,6 @@ Practice materials and exercises are needed to prepare for the Certified Kuberne
 # Notes
 - [Official Kubernetes Documentation](https://kubernetes.io/docs/)
 - [Kubectl Commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands)
+- [Enhancements tracking repo for Kubernetes](https://github.com/kubernetes/enhancements/)
 - [Research Papers](docs/)
 - [Kubernetes Production Issues Database](https://k8s-issues.purutuladhar.com/)
