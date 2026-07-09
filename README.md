@@ -1,6 +1,6 @@
-# CKAD Exercises
+# CKA Questions
 
-Practice materials and exercises are needed to prepare for the Certified Kubernetes Application Developer (CKAD) exam. These resources are designed to help individuals gain the necessary knowledge and skills to complete the CKAD exam and earn their certification successfully.
+Practice materials and exercises are needed to prepare for the Certified Kubernetes  Administrator (CKA) exam. These resources are designed to help individuals gain the necessary knowledge and skills to complete the CKA exam and earn their certification successfully.
 
 ****Note***: Continuous improvements and bug fixes are made within the repository to produce better solutions.*
 
@@ -16,7 +16,18 @@ Practice materials and exercises are needed to prepare for the Certified Kuberne
 - [Exercise - 8](/exercise-8) 
 - [Exercise - 9](/exercise-9) 
 - [Exercise - 10](/exercise-10) 
-- [Exercise - 11](/exercise-11) 
+- [Exercise - 11](/exercise-11)
+- [Exercise - 12](/exercise-12)
+- [Exercise - 13](/exercise-13)
+- [Exercise - 14](/exercise-14)
+- [Exercise - 15](/exercise-15)
+- [Exercise - 16](/exercise-16)
+- [Exercise - 17](/exercise-17)
+- [Exercise - 18](/exercise-18)
+- [Exercise - 19](/exercise-19)
+- [Exercise - 20](/exercise-20)
+- [Exercise - 21](/exercise-21)
+- [Exercise - 22](/exercise-22) 
 
 # Playgrounds
 - [Play with K8s](https://labs.play-with-k8s.com/)
